@@ -11,7 +11,8 @@ USE imdb_movies;
 SELECT 
     *
 FROM
-    movies;
+    movies
+LIMIT 10;
 
 -- 2. Data Preparation and Cleaning
 
